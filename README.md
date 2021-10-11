@@ -1,6 +1,6 @@
 # 🐒 Infinite Monkey Theorem 
 
-Some years ago I worked on a small script to print random characters as part of an infinite monkey theorem generator. While random characters did produce some curious combinations I thought it would be fun to give the monkey a dictionary and increase the chances of a readable text. I'm not sure if I'll expand on this one or not, but it was a fun expercise in something Bash related. Maybe the next iteration should give the monkey some CUDA cores.
+Some years ago I worked on a small script to print random characters as part of an infinite monkey theorem generator. While random characters did produce some curious combinations I thought it would be fun to give the monkey a dictionary and increase the chances of a readable text. I'm not sure if I'll expand on this one or not, but it was a fun exercise in something Bash related. Maybe the next iteration should give the monkey some CUDA cores.
 
 Simply put from Wikipedia
 >The theorem can be generalized to state that any sequence of events which has a non-zero probability of happening, at least as long as it hasn't occurred, will almost certainly eventually occur.
