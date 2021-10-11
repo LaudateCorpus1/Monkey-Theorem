@@ -8,7 +8,7 @@ Simply put from Wikipedia
 
 ## How to Run 
 
-Clone the repository, make the `monkey.sh` file executable and run it at the prompt. It will print randomwor[k|d]s at the prompt. 
+Clone the repository, make the `monkey.sh` file executable and run it at the prompt. It will print random wor[k|d]s at the prompt. 
 
 ## Resources 
 - [Wikipedia Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
